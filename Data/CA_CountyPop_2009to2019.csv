@@ -1,0 +1,639 @@
+,NAME,Population,stateNo,countyNo,County,Year
+0,"Alameda County, California",1457095.0,06,001,Alameda,2009
+1,"Alpine County, California",1153.0,06,003,Alpine,2009
+2,"Amador County, California",38039.0,06,005,Amador,2009
+3,"Butte County, California",217917.0,06,007,Butte,2009
+4,"Calaveras County, California",46548.0,06,009,Calaveras,2009
+5,"Colusa County, California",21001.0,06,011,Colusa,2009
+6,"Contra Costa County, California",1015571.0,06,013,Contra Costa,2009
+7,"Del Norte County, California",28729.0,06,015,Del Norte,2009
+8,"El Dorado County, California",175941.0,06,017,El Dorado,2009
+9,"Fresno County, California",890750.0,06,019,Fresno,2009
+10,"Glenn County, California",27891.0,06,021,Glenn,2009
+11,"Humboldt County, California",129003.0,06,023,Humboldt,2009
+12,"Imperial County, California",160034.0,06,025,Imperial,2009
+13,"Inyo County, California",17438.0,06,027,Inyo,2009
+14,"Kern County, California",780953.0,06,029,Kern,2009
+15,"Kings County, California",146696.0,06,031,Kings,2009
+16,"Lake County, California",64756.0,06,033,Lake,2009
+17,"Lassen County, California",34428.0,06,035,Lassen,2009
+18,"Los Angeles County, California",9785295.0,06,037,Los Angeles,2009
+19,"Madera County, California",144794.0,06,039,Madera,2009
+20,"Marin County, California",246711.0,06,041,Marin,2009
+21,"Mariposa County, California",17865.0,06,043,Mariposa,2009
+22,"Mendocino County, California",86030.0,06,045,Mendocino,2009
+23,"Merced County, California",242235.0,06,047,Merced,2009
+24,"Modoc County, California",9162.0,06,049,Modoc,2009
+25,"Mono County, California",12925.0,06,051,Mono,2009
+26,"Monterey County, California",404922.0,06,053,Monterey,2009
+27,"Napa County, California",132173.0,06,055,Napa,2009
+28,"Nevada County, California",97063.0,06,057,Nevada,2009
+29,"Orange County, California",2976831.0,06,059,Orange,2009
+30,"Placer County, California",332059.0,06,061,Placer,2009
+31,"Plumas County, California",20550.0,06,063,Plumas,2009
+32,"Riverside County, California",2036304.0,06,065,Riverside,2009
+33,"Sacramento County, California",1375605.0,06,067,Sacramento,2009
+34,"San Benito County, California",54752.0,06,069,San Benito,2009
+35,"San Bernardino County, California",1986635.0,06,071,San Bernardino,2009
+36,"San Diego County, California",2987543.0,06,073,San Diego,2009
+37,"San Francisco County, California",797271.0,06,075,San Francisco,2009
+38,"San Joaquin County, California",664641.0,06,077,San Joaquin,2009
+39,"San Luis Obispo County, California",262149.0,06,079,San Luis Obispo,2009
+40,"San Mateo County, California",701886.0,06,081,San Mateo,2009
+41,"Santa Barbara County, California",402025.0,06,083,Santa Barbara,2009
+42,"Santa Clara County, California",1729378.0,06,085,Santa Clara,2009
+43,"Santa Cruz County, California",251398.0,06,087,Santa Cruz,2009
+44,"Shasta County, California",179387.0,06,089,Shasta,2009
+45,"Sierra County, California",3240.0,06,091,Sierra,2009
+46,"Siskiyou County, California",44404.0,06,093,Siskiyou,2009
+47,"Solano County, California",406461.0,06,095,Solano,2009
+48,"Sonoma County, California",464218.0,06,097,Sonoma,2009
+49,"Stanislaus County, California",505165.0,06,099,Stanislaus,2009
+50,"Sutter County, California",90731.0,06,101,Sutter,2009
+51,"Tehama County, California",60601.0,06,103,Tehama,2009
+52,"Trinity County, California",13922.0,06,105,Trinity,2009
+53,"Tulare County, California",416299.0,06,107,Tulare,2009
+54,"Tuolumne County, California",55761.0,06,109,Tuolumne,2009
+55,"Ventura County, California",792313.0,06,111,Ventura,2009
+56,"Yolo County, California",192974.0,06,113,Yolo,2009
+57,"Yuba County, California",70906.0,06,115,Yuba,2009
+58,"Merced County, California",250699.0,06,047,Merced,2010
+59,"Modoc County, California",9605.0,06,049,Modoc,2010
+60,"Mono County, California",13905.0,06,051,Mono,2010
+61,"Monterey County, California",407435.0,06,053,Monterey,2010
+62,"Napa County, California",134051.0,06,055,Napa,2010
+63,"Nevada County, California",98186.0,06,057,Nevada,2010
+64,"Orange County, California",2965525.0,06,059,Orange,2010
+65,"Placer County, California",336477.0,06,061,Placer,2010
+66,"Plumas County, California",20392.0,06,063,Plumas,2010
+67,"Riverside County, California",2109464.0,06,065,Riverside,2010
+68,"Sacramento County, California",1395144.0,06,067,Sacramento,2010
+69,"San Benito County, California",54492.0,06,069,San Benito,2010
+70,"San Bernardino County, California",2005287.0,06,071,San Bernardino,2010
+71,"San Diego County, California",3022468.0,06,073,San Diego,2010
+72,"San Francisco County, California",789172.0,06,075,San Francisco,2010
+73,"San Joaquin County, California",673613.0,06,077,San Joaquin,2010
+74,"San Luis Obispo County, California",265577.0,06,079,San Luis Obispo,2010
+75,"San Mateo County, California",704327.0,06,081,San Mateo,2010
+76,"Santa Barbara County, California",416051.0,06,083,Santa Barbara,2010
+77,"Santa Clara County, California",1739396.0,06,085,Santa Clara,2010
+78,"Santa Cruz County, California",256901.0,06,087,Santa Cruz,2010
+79,"Shasta County, California",176906.0,06,089,Shasta,2010
+80,"Sierra County, California",3366.0,06,091,Sierra,2010
+81,"Siskiyou County, California",44690.0,06,093,Siskiyou,2010
+82,"Solano County, California",410042.0,06,095,Solano,2010
+83,"Sonoma County, California",474047.0,06,097,Sonoma,2010
+84,"Stanislaus County, California",509682.0,06,099,Stanislaus,2010
+85,"Sutter County, California",93420.0,06,101,Sutter,2010
+86,"Tehama County, California",62575.0,06,103,Tehama,2010
+87,"Trinity County, California",13701.0,06,105,Trinity,2010
+88,"Tulare County, California",429404.0,06,107,Tulare,2010
+89,"Tuolumne County, California",56074.0,06,109,Tuolumne,2010
+90,"Ventura County, California",809080.0,06,111,Ventura,2010
+91,"Yolo County, California",196418.0,06,113,Yolo,2010
+92,"Yuba County, California",71160.0,06,115,Yuba,2010
+93,"Alameda County, California",1477980.0,06,001,Alameda,2010
+94,"Alpine County, California",1176.0,06,003,Alpine,2010
+95,"Amador County, California",38327.0,06,005,Amador,2010
+96,"Butte County, California",218635.0,06,007,Butte,2010
+97,"Calaveras County, California",45994.0,06,009,Calaveras,2010
+98,"Colusa County, California",21165.0,06,011,Colusa,2010
+99,"Contra Costa County, California",1024809.0,06,013,Contra Costa,2010
+100,"Del Norte County, California",28471.0,06,015,Del Norte,2010
+101,"El Dorado County, California",179053.0,06,017,El Dorado,2010
+102,"Fresno County, California",908830.0,06,019,Fresno,2010
+103,"Glenn County, California",27935.0,06,021,Glenn,2010
+104,"Humboldt County, California",133058.0,06,023,Humboldt,2010
+105,"Imperial County, California",168052.0,06,025,Imperial,2010
+106,"Inyo County, California",18434.0,06,027,Inyo,2010
+107,"Kern County, California",815693.0,06,029,Kern,2010
+108,"Kings County, California",151122.0,06,031,Kings,2010
+109,"Lake County, California",64371.0,06,033,Lake,2010
+110,"Lassen County, California",35081.0,06,035,Lassen,2010
+111,"Los Angeles County, California",9758256.0,06,037,Los Angeles,2010
+112,"Madera County, California",147738.0,06,039,Madera,2010
+113,"Marin County, California",248601.0,06,041,Marin,2010
+114,"Mariposa County, California",18290.0,06,043,Mariposa,2010
+115,"Mendocino County, California",87487.0,06,045,Mendocino,2010
+116,"Alameda County, California",1494876.0,06,001,Alameda,2011
+117,"Alpine County, California",1167.0,06,003,Alpine,2011
+118,"Amador County, California",38244.0,06,005,Amador,2011
+119,"Butte County, California",219309.0,06,007,Butte,2011
+120,"Calaveras County, California",45794.0,06,009,Calaveras,2011
+121,"Colusa County, California",21297.0,06,011,Colusa,2011
+122,"Contra Costa County, California",1037817.0,06,013,Contra Costa,2011
+123,"Del Norte County, California",28561.0,06,015,Del Norte,2011
+124,"El Dorado County, California",179878.0,06,017,El Dorado,2011
+125,"Fresno County, California",920623.0,06,019,Fresno,2011
+126,"Glenn County, California",28027.0,06,021,Glenn,2011
+127,"Humboldt County, California",133585.0,06,023,Humboldt,2011
+128,"Imperial County, California",171343.0,06,025,Imperial,2011
+129,"Inyo County, California",18457.0,06,027,Inyo,2011
+130,"Kern County, California",829254.0,06,029,Kern,2011
+131,"Kings County, California",152335.0,06,031,Kings,2011
+132,"Lake County, California",64392.0,06,033,Lake,2011
+133,"Lassen County, California",35001.0,06,035,Lassen,2011
+134,"Los Angeles County, California",9787747.0,06,037,Los Angeles,2011
+135,"Madera County, California",149611.0,06,039,Madera,2011
+136,"Marin County, California",250666.0,06,041,Marin,2011
+137,"Mariposa County, California",18290.0,06,043,Mariposa,2011
+138,"Mendocino County, California",87525.0,06,045,Mendocino,2011
+139,"Merced County, California",253606.0,06,047,Merced,2011
+140,"Modoc County, California",9587.0,06,049,Modoc,2011
+141,"Mono County, California",14016.0,06,051,Mono,2011
+142,"Monterey County, California",411385.0,06,053,Monterey,2011
+143,"Napa County, California",135377.0,06,055,Napa,2011
+144,"Nevada County, California",98392.0,06,057,Nevada,2011
+145,"Orange County, California",2989948.0,06,059,Orange,2011
+146,"Placer County, California",343554.0,06,061,Placer,2011
+147,"Plumas County, California",20192.0,06,063,Plumas,2011
+148,"Riverside County, California",2154844.0,06,065,Riverside,2011
+149,"Sacramento County, California",1408480.0,06,067,Sacramento,2011
+150,"San Benito County, California",54873.0,06,069,San Benito,2011
+151,"San Bernardino County, California",2023452.0,06,071,San Bernardino,2011
+152,"San Diego County, California",3060849.0,06,073,San Diego,2011
+153,"San Francisco County, California",797983.0,06,075,San Francisco,2011
+154,"San Joaquin County, California",680277.0,06,077,San Joaquin,2011
+155,"San Luis Obispo County, California",267871.0,06,079,San Luis Obispo,2011
+156,"San Mateo County, California",711622.0,06,081,San Mateo,2011
+157,"Santa Barbara County, California",419793.0,06,083,Santa Barbara,2011
+158,"Santa Clara County, California",1762754.0,06,085,Santa Clara,2011
+159,"Santa Cruz County, California",259402.0,06,087,Santa Cruz,2011
+160,"Shasta County, California",177231.0,06,089,Shasta,2011
+161,"Sierra County, California",3277.0,06,091,Sierra,2011
+162,"Siskiyou County, California",44687.0,06,093,Siskiyou,2011
+163,"Solano County, California",411620.0,06,095,Solano,2011
+164,"Sonoma County, California",478551.0,06,097,Sonoma,2011
+165,"Stanislaus County, California",512469.0,06,099,Stanislaus,2011
+166,"Sutter County, California",94192.0,06,101,Sutter,2011
+167,"Tehama County, California",62985.0,06,103,Tehama,2011
+168,"Trinity County, California",13711.0,06,105,Trinity,2011
+169,"Tulare County, California",436234.0,06,107,Tulare,2011
+170,"Tuolumne County, California",55736.0,06,109,Tuolumne,2011
+171,"Ventura County, California",815745.0,06,111,Ventura,2011
+172,"Yolo County, California",198889.0,06,113,Yolo,2011
+173,"Yuba County, California",71817.0,06,115,Yuba,2011
+174,"Alameda County, California",1515136.0,06,001,Alameda,2012
+175,"Alpine County, California",1197.0,06,003,Alpine,2012
+176,"Amador County, California",37764.0,06,005,Amador,2012
+177,"Butte County, California",220101.0,06,007,Butte,2012
+178,"Calaveras County, California",45507.0,06,009,Calaveras,2012
+179,"Colusa County, California",21329.0,06,011,Colusa,2012
+180,"Contra Costa County, California",1052047.0,06,013,Contra Costa,2012
+181,"Del Norte County, California",28496.0,06,015,Del Norte,2012
+182,"El Dorado County, California",180441.0,06,017,El Dorado,2012
+183,"Fresno County, California",930517.0,06,019,Fresno,2012
+184,"Glenn County, California",28078.0,06,021,Glenn,2012
+185,"Humboldt County, California",134317.0,06,023,Humboldt,2012
+186,"Imperial County, California",173487.0,06,025,Imperial,2012
+187,"Inyo County, California",18474.0,06,027,Inyo,2012
+188,"Kern County, California",839153.0,06,029,Kern,2012
+189,"Kings County, California",151982.0,06,031,Kings,2012
+190,"Lake County, California",64360.0,06,033,Lake,2012
+191,"Lassen County, California",34628.0,06,035,Lassen,2012
+192,"Los Angeles County, California",9840024.0,06,037,Los Angeles,2012
+193,"Madera County, California",150615.0,06,039,Madera,2012
+194,"Marin County, California",252759.0,06,041,Marin,2012
+195,"Mariposa County, California",18193.0,06,043,Mariposa,2012
+196,"Mendocino County, California",87577.0,06,045,Mendocino,2012
+197,"Merced County, California",256398.0,06,047,Merced,2012
+198,"Modoc County, California",9545.0,06,049,Modoc,2012
+199,"Mono County, California",14181.0,06,051,Mono,2012
+200,"Monterey County, California",416199.0,06,053,Monterey,2012
+201,"Napa County, California",136644.0,06,055,Napa,2012
+202,"Nevada County, California",98521.0,06,057,Nevada,2012
+203,"Orange County, California",3021840.0,06,059,Orange,2012
+204,"Placer County, California",350074.0,06,061,Placer,2012
+205,"Plumas County, California",19926.0,06,063,Plumas,2012
+206,"Riverside County, California",2192982.0,06,065,Riverside,2012
+207,"Sacramento County, California",1422348.0,06,067,Sacramento,2012
+208,"San Benito County, California",55467.0,06,069,San Benito,2012
+209,"San Bernardino County, California",2041029.0,06,071,San Bernardino,2012
+210,"San Diego County, California",3100500.0,06,073,San Diego,2012
+211,"San Francisco County, California",807755.0,06,075,San Francisco,2012
+212,"San Joaquin County, California",687036.0,06,077,San Joaquin,2012
+213,"San Luis Obispo County, California",270121.0,06,079,San Luis Obispo,2012
+214,"San Mateo County, California",721183.0,06,081,San Mateo,2012
+215,"Santa Barbara County, California",423594.0,06,083,Santa Barbara,2012
+216,"Santa Clara County, California",1788393.0,06,085,Santa Clara,2012
+217,"Santa Cruz County, California",262340.0,06,087,Santa Cruz,2012
+218,"Shasta County, California",177693.0,06,089,Shasta,2012
+219,"Sierra County, California",3163.0,06,091,Sierra,2012
+220,"Siskiyou County, California",44673.0,06,093,Siskiyou,2012
+221,"Solano County, California",414209.0,06,095,Solano,2012
+222,"Sonoma County, California",483456.0,06,097,Sonoma,2012
+223,"Stanislaus County, California",515115.0,06,099,Stanislaus,2012
+224,"Sutter County, California",94615.0,06,101,Sutter,2012
+225,"Tehama County, California",63200.0,06,103,Tehama,2012
+226,"Trinity County, California",13693.0,06,105,Trinity,2012
+227,"Tulare County, California",441877.0,06,107,Tulare,2012
+228,"Tuolumne County, California",55205.0,06,109,Tuolumne,2012
+229,"Ventura County, California",822794.0,06,111,Ventura,2012
+230,"Yolo County, California",200873.0,06,113,Yolo,2012
+231,"Yuba County, California",72244.0,06,115,Yuba,2012
+232,"Alameda County, California",1535248.0,06,001,Alameda,2013
+233,"Alpine County, California",1165.0,06,003,Alpine,2013
+234,"Amador County, California",37422.0,06,005,Amador,2013
+235,"Butte County, California",220542.0,06,007,Butte,2013
+236,"Calaveras County, California",45147.0,06,009,Calaveras,2013
+237,"Colusa County, California",21366.0,06,011,Colusa,2013
+238,"Contra Costa County, California",1065794.0,06,013,Contra Costa,2013
+239,"Del Norte County, California",28357.0,06,015,Del Norte,2013
+240,"El Dorado County, California",180982.0,06,017,El Dorado,2013
+241,"Fresno County, California",939605.0,06,019,Fresno,2013
+242,"Glenn County, California",28054.0,06,021,Glenn,2013
+243,"Humboldt County, California",134613.0,06,023,Humboldt,2013
+244,"Imperial County, California",175201.0,06,025,Imperial,2013
+245,"Inyo County, California",18482.0,06,027,Inyo,2013
+246,"Kern County, California",848204.0,06,029,Kern,2013
+247,"Kings County, California",151806.0,06,031,Kings,2013
+248,"Lake County, California",64260.0,06,033,Lake,2013
+249,"Lassen County, California",34018.0,06,035,Lassen,2013
+250,"Los Angeles County, California",9893481.0,06,037,Los Angeles,2013
+251,"Madera County, California",151435.0,06,039,Madera,2013
+252,"Marin County, California",254643.0,06,041,Marin,2013
+253,"Mariposa County, California",18061.0,06,043,Mariposa,2013
+254,"Mendocino County, California",87497.0,06,045,Mendocino,2013
+255,"Merced County, California",258707.0,06,047,Merced,2013
+256,"Modoc County, California",9468.0,06,049,Modoc,2013
+257,"Mono County, California",14217.0,06,051,Mono,2013
+258,"Monterey County, California",420569.0,06,053,Monterey,2013
+259,"Napa County, California",137837.0,06,055,Napa,2013
+260,"Nevada County, California",98509.0,06,057,Nevada,2013
+261,"Orange County, California",3051771.0,06,059,Orange,2013
+262,"Placer County, California",355924.0,06,061,Placer,2013
+263,"Plumas County, California",19586.0,06,063,Plumas,2013
+264,"Riverside County, California",2228528.0,06,065,Riverside,2013
+265,"Sacramento County, California",1435207.0,06,067,Sacramento,2013
+266,"San Benito County, California",56115.0,06,069,San Benito,2013
+267,"San Bernardino County, California",2056915.0,06,071,San Bernardino,2013
+268,"San Diego County, California",3138265.0,06,073,San Diego,2013
+269,"San Francisco County, California",817501.0,06,075,San Francisco,2013
+270,"San Joaquin County, California",693177.0,06,077,San Joaquin,2013
+271,"San Luis Obispo County, California",272094.0,06,079,San Luis Obispo,2013
+272,"San Mateo County, California",729543.0,06,081,San Mateo,2013
+273,"Santa Barbara County, California",427288.0,06,083,Santa Barbara,2013
+274,"Santa Clara County, California",1812208.0,06,085,Santa Clara,2013
+275,"Santa Cruz County, California",264808.0,06,087,Santa Cruz,2013
+276,"Shasta County, California",177966.0,06,089,Shasta,2013
+277,"Sierra County, California",3127.0,06,091,Sierra,2013
+278,"Siskiyou County, California",44503.0,06,093,Siskiyou,2013
+279,"Solano County, California",417258.0,06,095,Solano,2013
+280,"Sonoma County, California",487469.0,06,097,Sonoma,2013
+281,"Stanislaus County, California",518321.0,06,099,Stanislaus,2013
+282,"Sutter County, California",94787.0,06,101,Sutter,2013
+283,"Tehama County, California",63241.0,06,103,Tehama,2013
+284,"Trinity County, California",13638.0,06,105,Trinity,2013
+285,"Tulare County, California",446644.0,06,107,Tulare,2013
+286,"Tuolumne County, California",54728.0,06,109,Tuolumne,2013
+287,"Ventura County, California",829017.0,06,111,Ventura,2013
+288,"Yolo County, California",202288.0,06,113,Yolo,2013
+289,"Yuba County, California",72574.0,06,115,Yuba,2013
+290,"Los Angeles County, California",9974203.0,06,037,Los Angeles,2014
+291,"Madera County, California",152452.0,06,039,Madera,2014
+292,"Marin County, California",256802.0,06,041,Marin,2014
+293,"Mariposa County, California",17946.0,06,043,Mariposa,2014
+294,"Mendocino County, California",87612.0,06,045,Mendocino,2014
+295,"Merced County, California",261609.0,06,047,Merced,2014
+296,"Modoc County, California",9335.0,06,049,Modoc,2014
+297,"Mono County, California",14193.0,06,051,Mono,2014
+298,"Monterey County, California",424927.0,06,053,Monterey,2014
+299,"Napa County, California",139253.0,06,055,Napa,2014
+300,"Nevada County, California",98606.0,06,057,Nevada,2014
+301,"Orange County, California",3086331.0,06,059,Orange,2014
+302,"Placer County, California",361518.0,06,061,Placer,2014
+303,"Plumas County, California",19286.0,06,063,Plumas,2014
+304,"Riverside County, California",2266899.0,06,065,Riverside,2014
+305,"Sacramento County, California",1450277.0,06,067,Sacramento,2014
+306,"San Benito County, California",56888.0,06,069,San Benito,2014
+307,"San Bernardino County, California",2078586.0,06,071,San Bernardino,2014
+308,"San Diego County, California",3183143.0,06,073,San Diego,2014
+309,"San Francisco County, California",829072.0,06,075,San Francisco,2014
+310,"San Joaquin County, California",701050.0,06,077,San Joaquin,2014
+311,"San Luis Obispo County, California",274184.0,06,079,San Luis Obispo,2014
+312,"San Mateo County, California",739837.0,06,081,San Mateo,2014
+313,"Santa Barbara County, California",431555.0,06,083,Santa Barbara,2014
+314,"Santa Clara County, California",1841569.0,06,085,Santa Clara,2014
+315,"Santa Cruz County, California",267203.0,06,087,Santa Cruz,2014
+316,"Shasta County, California",178520.0,06,089,Shasta,2014
+317,"Sierra County, California",3019.0,06,091,Sierra,2014
+318,"Siskiyou County, California",44261.0,06,093,Siskiyou,2014
+319,"Solano County, California",421624.0,06,095,Solano,2014
+320,"Sonoma County, California",491790.0,06,097,Sonoma,2014
+321,"Stanislaus County, California",522794.0,06,099,Stanislaus,2014
+322,"Sutter County, California",95067.0,06,101,Sutter,2014
+323,"Tehama County, California",63284.0,06,103,Tehama,2014
+324,"Trinity County, California",13515.0,06,105,Trinity,2014
+325,"Tulare County, California",451108.0,06,107,Tulare,2014
+326,"Tuolumne County, California",54347.0,06,109,Tuolumne,2014
+327,"Ventura County, California",835790.0,06,111,Ventura,2014
+328,"Yolo County, California",204162.0,06,113,Yolo,2014
+329,"Yuba County, California",73059.0,06,115,Yuba,2014
+330,"Alameda County, California",1559308.0,06,001,Alameda,2014
+331,"Alpine County, California",1202.0,06,003,Alpine,2014
+332,"Amador County, California",37159.0,06,005,Amador,2014
+333,"Butte County, California",221578.0,06,007,Butte,2014
+334,"Calaveras County, California",44921.0,06,009,Calaveras,2014
+335,"Colusa County, California",21424.0,06,011,Colusa,2014
+336,"Contra Costa County, California",1081232.0,06,013,Contra Costa,2014
+337,"Del Norte County, California",28066.0,06,015,Del Norte,2014
+338,"El Dorado County, California",181465.0,06,017,El Dorado,2014
+339,"Fresno County, California",948844.0,06,019,Fresno,2014
+340,"Glenn County, California",28019.0,06,021,Glenn,2014
+341,"Humboldt County, California",134876.0,06,023,Humboldt,2014
+342,"Imperial County, California",177026.0,06,025,Imperial,2014
+343,"Inyo County, California",18439.0,06,027,Inyo,2014
+344,"Kern County, California",857730.0,06,029,Kern,2014
+345,"Kings County, California",151390.0,06,031,Kings,2014
+346,"Lake County, California",64209.0,06,033,Lake,2014
+347,"Lassen County, California",33356.0,06,035,Lassen,2014
+348,"Alameda County, California",1584983.0,06,001,Alameda,2015
+349,"Alpine County, California",1131.0,06,003,Alpine,2015
+350,"Amador County, California",36995.0,06,005,Amador,2015
+351,"Butte County, California",222564.0,06,007,Butte,2015
+352,"Calaveras County, California",44767.0,06,009,Calaveras,2015
+353,"Colusa County, California",21396.0,06,011,Colusa,2015
+354,"Contra Costa County, California",1096068.0,06,013,Contra Costa,2015
+355,"Del Norte County, California",27788.0,06,015,Del Norte,2015
+356,"El Dorado County, California",182093.0,06,017,El Dorado,2015
+357,"Fresno County, California",956749.0,06,019,Fresno,2015
+358,"Glenn County, California",28029.0,06,021,Glenn,2015
+359,"Humboldt County, California",135034.0,06,023,Humboldt,2015
+360,"Imperial County, California",178206.0,06,025,Imperial,2015
+361,"Inyo County, California",18373.0,06,027,Inyo,2015
+362,"Kern County, California",865736.0,06,029,Kern,2015
+363,"Kings County, California",150998.0,06,031,Kings,2015
+364,"Lake County, California",64158.0,06,033,Lake,2015
+365,"Lassen County, California",32645.0,06,035,Lassen,2015
+366,"Los Angeles County, California",10038388.0,06,037,Los Angeles,2015
+367,"Madera County, California",153187.0,06,039,Madera,2015
+368,"Marin County, California",258349.0,06,041,Marin,2015
+369,"Mariposa County, California",17789.0,06,043,Mariposa,2015
+370,"Mendocino County, California",87544.0,06,045,Mendocino,2015
+371,"Merced County, California",263885.0,06,047,Merced,2015
+372,"Modoc County, California",9184.0,06,049,Modoc,2015
+373,"Mono County, California",14146.0,06,051,Mono,2015
+374,"Monterey County, California",428441.0,06,053,Monterey,2015
+375,"Napa County, California",140295.0,06,055,Napa,2015
+376,"Nevada County, California",98570.0,06,057,Nevada,2015
+377,"Orange County, California",3116069.0,06,059,Orange,2015
+378,"Placer County, California",366280.0,06,061,Placer,2015
+379,"Plumas County, California",18966.0,06,063,Plumas,2015
+380,"Riverside County, California",2298032.0,06,065,Riverside,2015
+381,"Sacramento County, California",1465832.0,06,067,Sacramento,2015
+382,"San Benito County, California",57557.0,06,069,San Benito,2015
+383,"San Bernardino County, California",2094769.0,06,071,San Bernardino,2015
+384,"San Diego County, California",3223096.0,06,073,San Diego,2015
+385,"San Francisco County, California",840763.0,06,075,San Francisco,2015
+386,"San Joaquin County, California",708554.0,06,077,San Joaquin,2015
+387,"San Luis Obispo County, California",276517.0,06,079,San Luis Obispo,2015
+388,"San Mateo County, California",748731.0,06,081,San Mateo,2015
+389,"Santa Barbara County, California",435850.0,06,083,Santa Barbara,2015
+390,"Santa Clara County, California",1868149.0,06,085,Santa Clara,2015
+391,"Santa Cruz County, California",269278.0,06,087,Santa Cruz,2015
+392,"Shasta County, California",178942.0,06,089,Shasta,2015
+393,"Sierra County, California",3021.0,06,091,Sierra,2015
+394,"Siskiyou County, California",43895.0,06,093,Siskiyou,2015
+395,"Solano County, California",425753.0,06,095,Solano,2015
+396,"Sonoma County, California",495078.0,06,097,Sonoma,2015
+397,"Stanislaus County, California",527367.0,06,099,Stanislaus,2015
+398,"Sutter County, California",95247.0,06,101,Sutter,2015
+399,"Tehama County, California",63152.0,06,103,Tehama,2015
+400,"Trinity County, California",13373.0,06,105,Trinity,2015
+401,"Tulare County, California",454033.0,06,107,Tulare,2015
+402,"Tuolumne County, California",54079.0,06,109,Tuolumne,2015
+403,"Ventura County, California",840833.0,06,111,Ventura,2015
+404,"Yolo County, California",207320.0,06,113,Yolo,2015
+405,"Yuba County, California",73437.0,06,115,Yuba,2015
+406,"Alameda County, California",1605217.0,06,001,Alameda,2016
+407,"Alpine County, California",1184.0,06,003,Alpine,2016
+408,"Amador County, California",36963.0,06,005,Amador,2016
+409,"Butte County, California",223877.0,06,007,Butte,2016
+410,"Calaveras County, California",44787.0,06,009,Calaveras,2016
+411,"Colusa County, California",21361.0,06,011,Colusa,2016
+412,"Contra Costa County, California",1107925.0,06,013,Contra Costa,2016
+413,"Del Norte County, California",27628.0,06,015,Del Norte,2016
+414,"El Dorado County, California",183000.0,06,017,El Dorado,2016
+415,"Fresno County, California",963160.0,06,019,Fresno,2016
+416,"Glenn County, California",27976.0,06,021,Glenn,2016
+417,"Humboldt County, California",135182.0,06,023,Humboldt,2016
+418,"Imperial County, California",178807.0,06,025,Imperial,2016
+419,"Inyo County, California",18326.0,06,027,Inyo,2016
+420,"Kern County, California",871337.0,06,029,Kern,2016
+421,"Kings County, California",150261.0,06,031,Kings,2016
+422,"Lake County, California",64076.0,06,033,Lake,2016
+423,"Lassen County, California",31945.0,06,035,Lassen,2016
+424,"Los Angeles County, California",10057155.0,06,037,Los Angeles,2016
+425,"Madera County, California",153366.0,06,039,Madera,2016
+426,"Marin County, California",259358.0,06,041,Marin,2016
+427,"Mariposa County, California",17645.0,06,043,Mariposa,2016
+428,"Mendocino County, California",87409.0,06,045,Mendocino,2016
+429,"Merced County, California",265001.0,06,047,Merced,2016
+430,"Modoc County, California",9033.0,06,049,Modoc,2016
+431,"Mono County, California",14051.0,06,051,Mono,2016
+432,"Monterey County, California",430201.0,06,053,Monterey,2016
+433,"Napa County, California",140823.0,06,055,Napa,2016
+434,"Nevada County, California",98639.0,06,057,Nevada,2016
+435,"Orange County, California",3132211.0,06,059,Orange,2016
+436,"Placer County, California",370571.0,06,061,Placer,2016
+437,"Plumas County, California",18754.0,06,063,Plumas,2016
+438,"Riverside County, California",2323892.0,06,065,Riverside,2016
+439,"Sacramento County, California",1479300.0,06,067,Sacramento,2016
+440,"San Benito County, California",58051.0,06,069,San Benito,2016
+441,"San Bernardino County, California",2106754.0,06,071,San Bernardino,2016
+442,"San Diego County, California",3253356.0,06,073,San Diego,2016
+443,"San Francisco County, California",850282.0,06,075,San Francisco,2016
+444,"San Joaquin County, California",714860.0,06,077,San Joaquin,2016
+445,"San Luis Obispo County, California",278680.0,06,079,San Luis Obispo,2016
+446,"San Mateo County, California",754748.0,06,081,San Mateo,2016
+447,"Santa Barbara County, California",439395.0,06,083,Santa Barbara,2016
+448,"Santa Clara County, California",1885056.0,06,085,Santa Clara,2016
+449,"Santa Cruz County, California",270931.0,06,087,Santa Cruz,2016
+450,"Shasta County, California",179228.0,06,089,Shasta,2016
+451,"Sierra County, California",2931.0,06,091,Sierra,2016
+452,"Siskiyou County, California",43668.0,06,093,Siskiyou,2016
+453,"Solano County, California",429596.0,06,095,Solano,2016
+454,"Sonoma County, California",497776.0,06,097,Sonoma,2016
+455,"Stanislaus County, California",530561.0,06,099,Stanislaus,2016
+456,"Sutter County, California",95406.0,06,101,Sutter,2016
+457,"Tehama County, California",63015.0,06,103,Tehama,2016
+458,"Trinity County, California",13180.0,06,105,Trinity,2016
+459,"Tulare County, California",455769.0,06,107,Tulare,2016
+460,"Tuolumne County, California",53864.0,06,109,Tuolumne,2016
+461,"Ventura County, California",843110.0,06,111,Ventura,2016
+462,"Yolo County, California",209671.0,06,113,Yolo,2016
+463,"Yuba County, California",73897.0,06,115,Yuba,2016
+464,"Modoc County, California",9017.0,06,049,Modoc,2017
+465,"Merced County, California",267390.0,06,047,Merced,2017
+466,"Lake County, California",64095.0,06,033,Lake,2017
+467,"Mariposa County, California",17658.0,06,043,Mariposa,2017
+468,"Yuba County, California",74644.0,06,115,Yuba,2017
+469,"Contra Costa County, California",1123678.0,06,013,Contra Costa,2017
+470,"Inyo County, California",18195.0,06,027,Inyo,2017
+471,"Lassen County, California",31470.0,06,035,Lassen,2017
+472,"Stanislaus County, California",535684.0,06,099,Stanislaus,2017
+473,"Santa Barbara County, California",442996.0,06,083,Santa Barbara,2017
+474,"Sonoma County, California",500943.0,06,097,Sonoma,2017
+475,"Tehama County, California",63247.0,06,103,Tehama,2017
+476,"Imperial County, California",179957.0,06,025,Imperial,2017
+477,"Mono County, California",14058.0,06,051,Mono,2017
+478,"San Benito County, California",58671.0,06,069,San Benito,2017
+479,"Alameda County, California",1629615.0,06,001,Alameda,2017
+480,"Sacramento County, California",1495400.0,06,067,Sacramento,2017
+481,"El Dorado County, California",185015.0,06,017,El Dorado,2017
+482,"Napa County, California",141005.0,06,055,Napa,2017
+483,"San Diego County, California",3283665.0,06,073,San Diego,2017
+484,"Monterey County, California",433168.0,06,053,Monterey,2017
+485,"San Francisco County, California",864263.0,06,075,San Francisco,2017
+486,"Sierra County, California",2885.0,06,091,Sierra,2017
+487,"Tulare County, California",458809.0,06,107,Tulare,2017
+488,"Yolo County, California",212605.0,06,113,Yolo,2017
+489,"Humboldt County, California",135490.0,06,023,Humboldt,2017
+490,"Nevada County, California",98838.0,06,057,Nevada,2017
+491,"Alpine County, California",1203.0,06,003,Alpine,2017
+492,"Madera County, California",154440.0,06,039,Madera,2017
+493,"Mendocino County, California",87497.0,06,045,Mendocino,2017
+494,"Santa Cruz County, California",273263.0,06,087,Santa Cruz,2017
+495,"Trinity County, California",13037.0,06,105,Trinity,2017
+496,"Los Angeles County, California",10105722.0,06,037,Los Angeles,2017
+497,"Riverside County, California",2355002.0,06,065,Riverside,2017
+498,"San Bernardino County, California",2121220.0,06,071,San Bernardino,2017
+499,"Santa Clara County, California",1911226.0,06,085,Santa Clara,2017
+500,"Marin County, California",260814.0,06,041,Marin,2017
+501,"Placer County, California",374985.0,06,061,Placer,2017
+502,"Siskiyou County, California",43530.0,06,093,Siskiyou,2017
+503,"Shasta County, California",178919.0,06,089,Shasta,2017
+504,"Solano County, California",434981.0,06,095,Solano,2017
+505,"Del Norte County, California",27442.0,06,015,Del Norte,2017
+506,"Colusa County, California",21479.0,06,011,Colusa,2017
+507,"Glenn County, California",27935.0,06,021,Glenn,2017
+508,"Butte County, California",225207.0,06,007,Butte,2017
+509,"Kings County, California",150183.0,06,031,Kings,2017
+510,"Plumas County, California",18724.0,06,063,Plumas,2017
+511,"San Luis Obispo County, California",280119.0,06,079,San Luis Obispo,2017
+512,"Fresno County, California",971616.0,06,019,Fresno,2017
+513,"Kern County, California",878744.0,06,029,Kern,2017
+514,"Orange County, California",3155816.0,06,059,Orange,2017
+515,"Ventura County, California",847834.0,06,111,Ventura,2017
+516,"Calaveras County, California",45057.0,06,009,Calaveras,2017
+517,"Sutter County, California",95583.0,06,101,Sutter,2017
+518,"San Mateo County, California",763450.0,06,081,San Mateo,2017
+519,"Tuolumne County, California",53899.0,06,109,Tuolumne,2017
+520,"San Joaquin County, California",724153.0,06,077,San Joaquin,2017
+521,"Amador County, California",37306.0,06,005,Amador,2017
+522,"Lake County, California",64148.0,06,033,Lake,2018
+523,"Mariposa County, California",17540.0,06,043,Mariposa,2018
+524,"Yuba County, California",75493.0,06,115,Yuba,2018
+525,"Contra Costa County, California",1133247.0,06,013,Contra Costa,2018
+526,"Lassen County, California",31185.0,06,035,Lassen,2018
+527,"Santa Barbara County, California",443738.0,06,083,Santa Barbara,2018
+528,"Sonoma County, California",501317.0,06,097,Sonoma,2018
+529,"Imperial County, California",180216.0,06,025,Imperial,2018
+530,"Mono County, California",14174.0,06,051,Mono,2018
+531,"Alameda County, California",1643700.0,06,001,Alameda,2018
+532,"Sacramento County, California",1510023.0,06,067,Sacramento,2018
+533,"Napa County, California",140530.0,06,055,Napa,2018
+534,"Monterey County, California",433212.0,06,053,Monterey,2018
+535,"Sierra County, California",2930.0,06,091,Sierra,2018
+536,"San Diego County, California",3302833.0,06,073,San Diego,2018
+537,"Yolo County, California",214977.0,06,113,Yolo,2018
+538,"Humboldt County, California",135768.0,06,023,Humboldt,2018
+539,"Alpine County, California",1146.0,06,003,Alpine,2018
+540,"Mendocino County, California",87422.0,06,045,Mendocino,2018
+541,"Santa Cruz County, California",273765.0,06,087,Santa Cruz,2018
+542,"Los Angeles County, California",10098052.0,06,037,Los Angeles,2018
+543,"Riverside County, California",2383286.0,06,065,Riverside,2018
+544,"Santa Clara County, California",1922200.0,06,085,Santa Clara,2018
+545,"Marin County, California",260295.0,06,041,Marin,2018
+546,"Siskiyou County, California",43540.0,06,093,Siskiyou,2018
+547,"Shasta County, California",179085.0,06,089,Shasta,2018
+548,"Del Norte County, California",27424.0,06,015,Del Norte,2018
+549,"San Luis Obispo County, California",281455.0,06,079,San Luis Obispo,2018
+550,"Glenn County, California",27897.0,06,021,Glenn,2018
+551,"Butte County, California",227075.0,06,007,Butte,2018
+552,"Plumas County, California",18699.0,06,063,Plumas,2018
+553,"Kern County, California",883053.0,06,029,Kern,2018
+554,"Orange County, California",3164182.0,06,059,Orange,2018
+555,"Calaveras County, California",45235.0,06,009,Calaveras,2018
+556,"Sutter County, California",95872.0,06,101,Sutter,2018
+557,"San Mateo County, California",765935.0,06,081,San Mateo,2018
+558,"Tuolumne County, California",53932.0,06,109,Tuolumne,2018
+559,"San Joaquin County, California",732212.0,06,077,San Joaquin,2018
+560,"Amador County, California",37829.0,06,005,Amador,2018
+561,"Merced County, California",269075.0,06,047,Merced,2018
+562,"Modoc County, California",8938.0,06,049,Modoc,2018
+563,"Inyo County, California",18085.0,06,027,Inyo,2018
+564,"Stanislaus County, California",539301.0,06,099,Stanislaus,2018
+565,"Tehama County, California",63373.0,06,103,Tehama,2018
+566,"San Benito County, California",59416.0,06,069,San Benito,2018
+567,"El Dorado County, California",186661.0,06,017,El Dorado,2018
+568,"San Francisco County, California",870044.0,06,075,San Francisco,2018
+569,"Tulare County, California",460477.0,06,107,Tulare,2018
+570,"Nevada County, California",99092.0,06,057,Nevada,2018
+571,"Madera County, California",155013.0,06,039,Madera,2018
+572,"Trinity County, California",12862.0,06,105,Trinity,2018
+573,"San Bernardino County, California",2135413.0,06,071,San Bernardino,2018
+574,"Placer County, California",380077.0,06,061,Placer,2018
+575,"Solano County, California",438530.0,06,095,Solano,2018
+576,"Colusa County, California",21464.0,06,011,Colusa,2018
+577,"Kings County, California",150075.0,06,031,Kings,2018
+578,"Fresno County, California",978130.0,06,019,Fresno,2018
+579,"Ventura County, California",848112.0,06,111,Ventura,2018
+580,"Merced County, California",271382.0,06,047,Merced,2019
+581,"Mariposa County, California",17420.0,06,043,Mariposa,2019
+582,"Modoc County, California",8907.0,06,049,Modoc,2019
+583,"Contra Costa County, California",1142251.0,06,013,Contra Costa,2019
+584,"Inyo County, California",17977.0,06,027,Inyo,2019
+585,"Stanislaus County, California",543194.0,06,099,Stanislaus,2019
+586,"Santa Barbara County, California",444829.0,06,083,Santa Barbara,2019
+587,"Tehama County, California",63912.0,06,103,Tehama,2019
+588,"Mono County, California",14310.0,06,051,Mono,2019
+589,"San Benito County, California",60376.0,06,069,San Benito,2019
+590,"Sacramento County, California",1524553.0,06,067,Sacramento,2019
+591,"El Dorado County, California",188563.0,06,017,El Dorado,2019
+592,"Monterey County, California",433410.0,06,053,Monterey,2019
+593,"San Francisco County, California",874961.0,06,075,San Francisco,2019
+594,"San Diego County, California",3316073.0,06,073,San Diego,2019
+595,"Tulare County, California",461898.0,06,107,Tulare,2019
+596,"Humboldt County, California",135940.0,06,023,Humboldt,2019
+597,"Alpine County, California",1039.0,06,003,Alpine,2019
+598,"Madera County, California",155433.0,06,039,Madera,2019
+599,"Santa Cruz County, California",273962.0,06,087,Santa Cruz,2019
+600,"Trinity County, California",12700.0,06,105,Trinity,2019
+601,"Riverside County, California",2411439.0,06,065,Riverside,2019
+602,"San Bernardino County, California",2149031.0,06,071,San Bernardino,2019
+603,"Marin County, California",259943.0,06,041,Marin,2019
+604,"Placer County, California",385512.0,06,061,Placer,2019
+605,"Shasta County, California",179212.0,06,089,Shasta,2019
+606,"Solano County, California",441829.0,06,095,Solano,2019
+607,"Colusa County, California",21454.0,06,011,Colusa,2019
+608,"Glenn County, California",27976.0,06,021,Glenn,2019
+609,"Butte County, California",225817.0,06,007,Butte,2019
+610,"Kings County, California",150691.0,06,031,Kings,2019
+611,"Plumas County, California",18660.0,06,063,Plumas,2019
+612,"San Luis Obispo County, California",282165.0,06,079,San Luis Obispo,2019
+613,"Fresno County, California",984521.0,06,019,Fresno,2019
+614,"Kern County, California",887641.0,06,029,Kern,2019
+615,"Orange County, California",3168044.0,06,059,Orange,2019
+616,"Ventura County, California",847263.0,06,111,Ventura,2019
+617,"Calaveras County, California",45514.0,06,009,Calaveras,2019
+618,"Sutter County, California",96109.0,06,101,Sutter,2019
+619,"San Mateo County, California",767423.0,06,081,San Mateo,2019
+620,"Tuolumne County, California",54045.0,06,109,Tuolumne,2019
+621,"San Joaquin County, California",742603.0,06,077,San Joaquin,2019
+622,"Amador County, California",38429.0,06,005,Amador,2019
+623,"Lake County, California",64195.0,06,033,Lake,2019
+624,"Yuba County, California",76360.0,06,115,Yuba,2019
+625,"Lassen County, California",30818.0,06,035,Lassen,2019
+626,"Sonoma County, California",499772.0,06,097,Sonoma,2019
+627,"Imperial County, California",180701.0,06,025,Imperial,2019
+628,"Alameda County, California",1656754.0,06,001,Alameda,2019
+629,"Napa County, California",139623.0,06,055,Napa,2019
+630,"Sierra County, California",3040.0,06,091,Sierra,2019
+631,"Yolo County, California",217352.0,06,113,Yolo,2019
+632,"Nevada County, California",99244.0,06,057,Nevada,2019
+633,"Mendocino County, California",87224.0,06,045,Mendocino,2019
+634,"Los Angeles County, California",10081570.0,06,037,Los Angeles,2019
+635,"Santa Clara County, California",1927470.0,06,085,Santa Clara,2019
+636,"Siskiyou County, California",43468.0,06,093,Siskiyou,2019
+637,"Del Norte County, California",27495.0,06,015,Del Norte,2019
