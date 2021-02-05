@@ -24,6 +24,13 @@
 - City of Los Angeles
 - NYPD
 
+### Data Analysis and Methods
+Methods include:
+- Importing data from csv files
+- Calling for data using an API
+- Cleaning data with pandas
+- Visualizing data with matplotlib
+
 ### Summary of Conclusions and Discussion
 - There is no evidence casinos attract crime
 - Number of gun stores have no impact on gun crime
