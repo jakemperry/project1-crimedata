@@ -24,7 +24,7 @@
 - City of Los Angeles
 - NYPD
 
-### Data Analysis and Methods
+### Data Analysis Methods
 Methods include:
 - Importing data from csv files
 - Calling for data using an API
