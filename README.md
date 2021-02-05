@@ -40,3 +40,6 @@ Methods include:
     - Number of liquor licenses and number of weapons
     - Number of liquor licenses and population
     - Population and number of calls
+
+### Good to know
+- The Census and Google Maps API portions of this project require keys.  Please confirm you have an API key in a config file saved in the appropriate directory before running jupyter notebooks/python files that reference API keys.
