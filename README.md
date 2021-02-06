@@ -17,12 +17,20 @@
 - How is population related to gun crimes?
 
 ### Data Sources
+A detailed list of data files and their sources is provided in the "Data" folder.  Data sources for this project include:
 - [OpenJustice website](https://openjustice.doj.ca.gov/data)
+    - Crimes and Clearances (With Arson)
+    - Domestic Violence Related Calls for Service
 - [US Census Data API](https://www.census.gov/data/developers/data-sets.html)
 - [Google Maps API](https://developers.google.com/maps/)
 - [CA Dept of Alcoholic Beverage Control](https://www.abc.ca.gov/licensing/licensing-reports/licenses-by-county/)
-- City of Los Angeles
-- NYPD
+- [Arrest data from 2010-2019, LACity.org](https://data.lacity.org/Public-Safety/Arrest-Data-from-2010-to-2019/yru6-6re4)
+    - This file is over 300MB and exceeds the GitHub file size limit.  Please download directly from the link above.  Thanks!
+- [Financial Crimes Enforcement Network](https://www.fincen.gov/reports/sar-stats)
+- [Casinos and Crime in the USA](https://www.researchgate.net/publication/265568177_Casinos_and_crime_in_the_USA)
+- [Casinos, Crime, and Community Costs](https://www.jstor.org/stable/40042957?seq=1)
+- [NYPD Shooting Incident Data (Historic), NYC OpenData](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
+- [United States Cities Database](https://simplemaps.com/data/us-cities)
 
 ### Data Analysis Methods
 Methods include:
