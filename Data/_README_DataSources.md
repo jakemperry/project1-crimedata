@@ -1,0 +1,21 @@
+### Data Sources
+- [OpenJustice website](https://openjustice.doj.ca.gov/data)
+    - Crimes_and_Clearances_with_Arson-1985-2019.csv
+    - Crimes-Clear-Arson Context_062119.pdf
+- [US Census Data API](https://www.census.gov/data/developers/data-sets.html)
+    - Used to request census data, California County populations saved to: CA_CountyPop_2009to2019.csv
+- [Google Maps API](https://developers.google.com/maps/)
+- [CA Dept of Alcoholic Beverage Control](https://www.abc.ca.gov/licensing/licensing-reports/licenses-by-county/)
+    - CA-ABC-LicenseReport-MasterActiveOnly.csv
+- [Arrest data from 2010-2019, LACity.org](https://data.lacity.org/Public-Safety/Arrest-Data-from-2010-to-2019/yru6-6re4)
+    - This file is over 300MB and exceeds the GitHub file size limit.  Please download directly from the link above.  Thanks!
+- [Financial Crimes Enforcement Network](https://www.fincen.gov/reports/sar-stats)
+    - USAStats-7.csv
+- [Casinos and Crime in the USA](https://www.researchgate.net/publication/265568177_Casinos_and_crime_in_the_USA)
+    - Academic article
+- [Casinos, Crime, and Community Costs](https://www.jstor.org/stable/40042957?seq=1)
+    - Academic article
+- [NYPD Shooting Incident Data (Historic), NYC OpenData](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
+    - 
+- [United States Cities Database](https://simplemaps.com/data/us-cities)
+    - US-Cities.csv
