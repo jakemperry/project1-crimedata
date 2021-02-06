@@ -49,5 +49,8 @@ Methods include:
     - Number of liquor licenses and population
     - Population and number of calls
 
+### Presentation
+A copy of the presentation is available to view through [Google Drive](https://drive.google.com/file/d/1LQ6TOHCkjd6KEG7ucwhH50s-uqIqoiA5/view?usp=sharing)
+
 ### Good to know
 - The Census and Google Maps API portions of this project require keys.  Please confirm you have an API key in a config file saved in the appropriate directory before running jupyter notebooks/python files that reference API keys.
