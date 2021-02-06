@@ -1,9 +1,9 @@
 # Project 1 - Crime Data
 **Collaborators**
-- BAF95
-- DavidZapataCSUF
-- mbarerra2020
-- jakemperry
+- [BAF95](https://github.com/BAF95)
+- [DavidZapataCSUF](https://github.com/DavidZapataCSUF)
+- [mbarrera2020](https://github.com/mbarrera2020)
+- [jakemperry](https://github.com/jakemperry)
 
 ## Project Hypothesis and Core Message
 - Crimes are tied to institutions of similar nature
